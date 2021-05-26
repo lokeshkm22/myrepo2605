@@ -1,3 +1,8 @@
 First Line
 Second Line
+<<<<<<< HEAD
 3rd Line
+||||||| fb85c25
+=======
+Third Line
+>>>>>>> dev
